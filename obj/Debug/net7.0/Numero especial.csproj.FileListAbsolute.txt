@@ -1,0 +1,15 @@
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Escritorio\Numero especial\bin\Debug\net7.0\Numero especial.exe
+C:\Users\steve\OneDrive\Escritorio\Numero especial\bin\Debug\net7.0\Numero especial.deps.json
+C:\Users\steve\OneDrive\Escritorio\Numero especial\bin\Debug\net7.0\Numero especial.runtimeconfig.json
+C:\Users\steve\OneDrive\Escritorio\Numero especial\bin\Debug\net7.0\Numero especial.dll
+C:\Users\steve\OneDrive\Escritorio\Numero especial\bin\Debug\net7.0\Numero especial.pdb
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.dll
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\refint\Numero especial.dll
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.pdb
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\Numero especial.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Escritorio\Numero especial\obj\Debug\net7.0\ref\Numero especial.dll

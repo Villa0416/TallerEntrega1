@@ -1,0 +1,15 @@
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.exe
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.deps.json
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.runtimeconfig.json
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.dll
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.pdb
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.dll
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\refint\Nueva carpeta.dll
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.pdb
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Escritorio\Nueva carpeta\obj\Debug\net7.0\ref\Nueva carpeta.dll
